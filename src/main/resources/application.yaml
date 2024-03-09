@@ -1,0 +1,12 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/demo
+    password: postgres
+    username: postgres
+    driver-class-name: org.postgresql.Driver
+loader:
+  path: C:\temp\Loader
+
+log:
+  file_path: C:\temp\Log
+  file_name: log.txt
