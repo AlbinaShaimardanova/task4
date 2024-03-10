@@ -1,0 +1,4 @@
+Method name: CheckApp.check; start: 2024-03-10T14:03:30.984454100; stop: 2024-03-10T14:03:30.984454100; input parameters: [web]; output result: web; 
+Method name: CheckApp.check; start: 2024-03-10T14:11:04.857733200; stop: 2024-03-10T14:11:04.857733200; input parameters: [app]; output result: other:app; 
+Method name: CheckApp.check; start: 2024-03-10T14:16:47.848327500; stop: 2024-03-10T14:16:47.849324200; input parameters: [mobile]; output result: mobile; 
+Method name: CheckApp.check; start: 2024-03-10T14:37:12.031841700; stop: 2024-03-10T14:37:12.031841700; input parameters: [mobile]; output result: mobile; 

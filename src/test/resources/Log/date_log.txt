@@ -1,0 +1,6 @@
+Method name: CheckDate.check; start: 2024-03-10T14:44:48.451181500; stop: 2024-03-10T14:44:48.451181500; input parameters: [Fri Dec 01 00:00:00 MSK 2023]; output result: true; 
+Method name: CheckDate.check; start: 2024-03-10T14:47:45.142345500; stop: 2024-03-10T14:47:45.142345500; input parameters: [Fri Dec 01 00:00:00 MSK 2023]; output result: true; 
+Method name: CheckDate.check; start: 2024-03-10T15:09:41.519832300; stop: 2024-03-10T15:09:41.520832400; input parameters: []; output result: true; 
+Method name: CheckDate.check; start: 2024-03-10T15:12:57.085539; stop: 2024-03-10T15:13:12.124484200; input parameters: []; output result: true; 
+Method name: CheckDate.check; start: 2024-03-10T15:14:06.154488800; stop: 2024-03-10T15:14:06.154488800; input parameters: []; output result: true; 
+Method name: CheckDate.check; start: 2024-03-10T15:15:57.173553100; stop: 2024-03-10T15:16:18.475551900; input parameters: []; output result: true; 

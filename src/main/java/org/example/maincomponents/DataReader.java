@@ -1,4 +1,4 @@
-package org.example;
+package org.example.maincomponents;
 
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVRecord;

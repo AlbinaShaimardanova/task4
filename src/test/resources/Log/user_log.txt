@@ -1,0 +1,7 @@
+Method name: CheckFIO.check; start: 2024-03-10T14:09:10.127683700; stop: 2024-03-10T14:09:10.128716900; input parameters: [lucius]; output result: Lucius; 
+Method name: CheckFIO.check; start: 2024-03-10T14:16:47.835363400; stop: 2024-03-10T14:16:47.836361100; input parameters: [Gaius]; output result: Gaius; 
+Method name: CheckFIO.check; start: 2024-03-10T14:16:47.844338600; stop: 2024-03-10T14:16:47.844338600; input parameters: [Iulius]; output result: Iulius; 
+Method name: CheckFIO.check; start: 2024-03-10T14:16:47.845339; stop: 2024-03-10T14:16:47.845339; input parameters: [Caesar]; output result: Caesar; 
+Method name: CheckFIO.check; start: 2024-03-10T14:37:12.020872800; stop: 2024-03-10T14:37:12.021867900; input parameters: [Gaius]; output result: Gaius; 
+Method name: CheckFIO.check; start: 2024-03-10T14:37:12.028849700; stop: 2024-03-10T14:37:12.028849700; input parameters: [Iulius]; output result: Iulius; 
+Method name: CheckFIO.check; start: 2024-03-10T14:37:12.029846700; stop: 2024-03-10T14:37:12.029846700; input parameters: [Caesar]; output result: Caesar; 
